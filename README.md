@@ -1,7 +1,3 @@
-# Automated-Book-Publication-Workflow
-
-# Automated-Book-Publication-Workflow
-
 # 📘 Automated Book Publication Workflow
 
 An intelligent pipeline to fetch, rewrite, refine, and version literary content using LLMs, human-in-the-loop review, and RL-based intelligent search.
