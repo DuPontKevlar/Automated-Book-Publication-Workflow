@@ -1,0 +1,7 @@
+playwright
+google-generativeai
+chromadb
+tqdm
+pydantic
+python-dotenv
+Pillow
