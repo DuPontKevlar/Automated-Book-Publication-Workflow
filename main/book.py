@@ -871,7 +871,7 @@ Generated: {datetime.now().isoformat()}
 
 config = WorkflowConfig(
     source_url="https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1",
-    gemini_api_key="AIzaSyDB9np0sWCkYiH3PSE0YrxRBceXGAXb32U",
+    gemini_api_key="YOUR_API_KEY",
     output_dir="/content/book_workflow",
     max_iterations=2,
     similarity_threshold=0.8
